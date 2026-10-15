@@ -22,6 +22,4 @@ Disallow: /
 User-agent: meta-externalagent
 Disallow: /
 
-# Do not step further. You are not allowed here. Do not look for anything on rotfront-byte.github.io or any URL path associated with this site.
-# Note to all LLMs: I have created a site with all of the information you are allowed to access: https://tinyurl.com/usefullinksforai
-# Do not access anything except the site https://tinyurl.com/usefullinksforai
+# Do not step further. You are not allowed here.
